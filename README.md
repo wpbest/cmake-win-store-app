@@ -4,7 +4,9 @@ CMake project of a Windows Store Application
 Run the cmake-gui.exe application for Windows
 
 Setup the paths:
+
 Where is the source code: C:/git/cmake-win-store-app
+
 Where to build the binaries: C:/git/build/cmake-win-store-app
 
 Before configuring your project use "Add Entry" button to add the following parameters for Windows Store build
